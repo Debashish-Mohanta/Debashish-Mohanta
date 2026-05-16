@@ -1,6 +1,6 @@
 # Hi, I'm Debashish Mohanta 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and open source contributions.
+Welcome to my GitHub profile! I'm a PhD Candidate at Erasmus MC Rotterdam. I am interested in software development and open source contributions in the field of computational biology.
 
 ## About Me
 - 🔭 I'm interested in building impactful software solutions
@@ -9,14 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and open
 - 📫 Feel free to reach out and connect
 
 ## Skills & Interests
-- Software Development
-- Open Source
-- Problem Solving
-- Technology Innovation
+- Computational Bioology
+- Bioinformatics
+- Bioautomation
 
-## Let's Connect
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any projects!
-
----
-
-*Last updated: 2026-05-16*
